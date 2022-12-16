@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatih firdaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih firdaus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatih-firdaus-28b164256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih firdaus" height="30" width="40" /></a>
 <a href="https://fb.com/Nao.Tomori.UwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shirokami ryzen" height="30" width="40" /></a>
 <a href="https://instagram.com/ryzen_vermillion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryzen_vermillion" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/akiraid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akira id" height="30" width="40" /></a>
