@@ -12,14 +12,14 @@
   <p>Whatsapp Bot</p>
   <p>Frontend Developer</p>
   <p>Backend Developer</p>
-<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">- 7!! - Orange</a><p>
+<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>
   
 </div>
     
 <div>
 <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="180px">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
  <b>Name:</b> Shirokami Ryzen
