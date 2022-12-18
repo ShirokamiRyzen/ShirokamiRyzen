@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome to my Profile 💖 ~</h1>
+<h1 align="center">~ 💖 WELCOME 💖 ~</h1>
 <br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/92/7d/46/927d468a539415804e1230bd1d5f25b2.gif">
@@ -19,7 +19,7 @@
 <div>
 <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="240px">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="180px">
   </div>
 <li>
  <b>Name:</b> Shirokami Ryzen
