@@ -19,7 +19,7 @@
 <div>
 <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="25%">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
  <b>Name:</b> Shirokami Ryzen
