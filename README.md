@@ -42,17 +42,8 @@
 
 </div>
 <div>
-<h2 align="center"> 📇 ~ Knowledge ~ 📇 </h2>
- <br>
-<p>
+<h2 align="center"> 📇 ~ KNOWLEDGE ~ 📇 </h2>
 
-<!-- <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
-</div>
-<div> -->
-
-<br>
 <p align="center">
     <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -72,7 +63,6 @@ Listening to the music and typing code is my favorite routine, and also i like p
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </div> -->
 
-<br>
 <p align="center">Here are some my <br>
 most used social media</p>
 
@@ -82,8 +72,6 @@ most used social media</p>
 <a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>
-
-<br>
 
 <div>
 <div align="center">
