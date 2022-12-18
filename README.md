@@ -72,12 +72,11 @@ most used social media</p>
 <a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>
-
+</center>
 <!-- <div>
 <div align="center">
 <img src="https://i.imgur.com/RzFlGwZ.gif">
 </div>
 <hr>
 </div> -->
-    </center>
 </body>
