@@ -1,36 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shirokami Ryzen</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shirokamiryzen&label=Profile%20views&color=0e75b6&style=flat" alt="shirokamiryzen" /> </p>
-
-- 🌱 I’m currently learning **Kotlin and tailwind**
-
-- 👨‍💻 My website are available at [www.ryzn.site](www.ryzn.site)
-
-- 📝 I regularly write articles on [www.win-tweak.my.id](www.win-tweak.my.id)
-
-- 💬 Ask me about **JavaScript, NodeJS, HTML, CSS, PHP**
-
-- 📫 How to reach me **shikamiryzen@gmail.com**
+<body>
+  <center>
+<h1 align="center">~ 💖 Welcome to my Profile 💖 ~</h1>
+<br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/92/7d/46/927d468a539415804e1230bd1d5f25b2.gif">
+  <!-- <a href="https://ryzn.site/" >
+   <img src="https://lanyard.cnrad.dev/api/376260355313106944?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+  </a> -->
+    <br>
+  <p>Node.JS</p>
+  <p>Whatsapp Bot</p>
+  <p>Frontend Developer</p>
+  <p>Backend Developer</p>
+<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">- 7!! - Orange</a><p>
+  
 </div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
+    
 <div>
+<h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="240px">
+  </div>
+<li>
+ <b>Name:</b> Shirokami Ryzen
+</li>
+<li>
+<b>Loves:</b> Anime, Games, Music, Girl
+</li>
+<li>
+<b>Gender:</b> Attack Helicopter
+</li>
+<li>
+<b>Website</b> https://www.ryzn.site
+</li>
+<li>
+<b>Blogspot</b> https://www.win-tweak.my.id
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+</li>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatih-firdaus-28b164256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih firdaus" height="30" width="40" /></a>
-<a href="https://fb.com/Nao.Tomori.UwU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shirokami ryzen" height="30" width="40" /></a>
-<a href="https://instagram.com/ryzen_vermillion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ryzen_vermillion" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akiraid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akira id" height="30" width="40" /></a>
+<br>
+<br>
+<br>
+
+</div>
+<div>
+<h2 align="center"> 📇 ~ Knowledge ~ 📇 </h2>
+ <br>
+<p>
+
+<!-- <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div> -->
+
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<br>
+<br>
+Listening to the music and typing code is my favorite routine, and also i like playing games with my friends 💕.
 </p>
+<br>
+<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- <div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+</div> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirokamiryzen&show_icons=true&locale=en&layout=compact" alt="shirokamiryzen" /></p>
+<br>
+<p align="center">Here are some my <br>
+most used social media</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirokamiryzen&show_icons=true&locale=en" alt="shirokamiryzen" /></p>
+<p align="center">
+<a href="https://www.facebook.com/Nao.Tomori.UwU" target="_blank"><img src="https://img.shields.io/badge/-Shirokami%20Ryzen-blue?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Ryzen_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+</p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirokamiryzen&" alt="shirokamiryzen" /></p>
+<br>
+
+<div>
+<div align="center">
+<img src="https://i.imgur.com/RzFlGwZ.gif">
+</div>
+<hr>
+</div>
+    </center>
+</body>
