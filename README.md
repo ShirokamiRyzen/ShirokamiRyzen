@@ -73,11 +73,11 @@ most used social media</p>
 </p>
 </div>
 
-<div>
+<!-- <div>
 <div align="center">
 <img src="https://i.imgur.com/RzFlGwZ.gif">
 </div>
 <hr>
-</div>
+</div> -->
     </center>
 </body>
