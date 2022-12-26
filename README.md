@@ -9,8 +9,8 @@
   </a> -->
 <br>
 
-  <p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>
-  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Viewers+Counter" width="180px"/></p>
+  <!--<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>-->
+  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Visitors+Count" width="180px"/></p>
   
 </div>
     
