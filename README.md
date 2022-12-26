@@ -7,8 +7,10 @@
   <!-- <a href="https://ryzn.site/" >
    <img src="https://lanyard.cnrad.dev/api/376260355313106944?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
   </a> -->
-    <br>
-<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>
+<br>
+
+  <p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>
+  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen" width="180px"/></p>
   
 </div>
     
