@@ -10,7 +10,7 @@
 <br>
 
   <p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>
-  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen" width="150px"/></p>
+  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square" width="150px"/></p>
   
 </div>
     
