@@ -29,7 +29,7 @@
 <b>Gender:</b> Attack Helicopter
 </li>
 <li>
-<b>Website</b> https://www.ryzn.site
+<b>Website</b> https://www.ryzn.my.id
 </li>
 <li>
 <b>Blogspot</b> https://www.win-tweak.my.id
