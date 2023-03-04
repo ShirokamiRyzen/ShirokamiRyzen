@@ -23,13 +23,31 @@
 </details>
 </div>
     
-<h2 align="center"> 😼 ~ GITHUB STATS ~ 😼 </h2>
+<h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
 <a href="https://github.com/ShirokamiRyzen"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 
 <a href="https://github.com/ShirokamiRyzen">![github card](https://github-readme-stats.vercel.app/api?username=ShirokamiRyzen&show_icons=true&theme=radical)
 
 <a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+
+### ⚙ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-stats.vercel.app/api?username=ShirokamiRyzen&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirokamiRyzen&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
   
+<p align="center">
+  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-profile-trophy.vercel.app/?username=ShirokamiRyzen&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+    
 <div>
 <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
