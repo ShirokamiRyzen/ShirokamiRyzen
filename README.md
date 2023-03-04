@@ -41,10 +41,6 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&theme=tokyonight&layout=compact" /></a>
-</p>
-  
-<p align="center">
   <a href="https://github.com/ShirokamiRyzen"><img src="https://github-profile-trophy.vercel.app/?username=ShirokamiRyzen&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
