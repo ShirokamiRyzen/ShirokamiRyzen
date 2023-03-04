@@ -24,10 +24,12 @@
 </div>
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
+    
+<center>
 <a href="https://github.com/ShirokamiRyzen"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 
 <a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
-
+ </center>
 ### ⚙ &nbsp;GitHub Analytics
 
 <p align="center">
