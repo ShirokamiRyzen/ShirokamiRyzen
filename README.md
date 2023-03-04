@@ -23,9 +23,13 @@
   </a>
 <br>
 -->
-
+<details open>
+<summary><b>←Total Profile Visitors ↓</b></summary>
+<br>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
+</details>
   <!--<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>-->
-  <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Visitors+Count" width="180px"/></p>
+  <!--<p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Visitors+Count" width="180px"/></p>-->
   
 </div>
     
