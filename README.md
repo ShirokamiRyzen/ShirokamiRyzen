@@ -33,6 +33,14 @@
   
 </div>
     
+ ### Github Stats 
+
+<a href="https://github.com/ShirokamiRyzen"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
+
+<a href="https://github.com/ShirokamiRyzen">![github card](https://github-readme-stats.vercel.app/api?username=ShirokamiRyzen&show_icons=true&theme=radical)
+
+<a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+  
 <div>
 <h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
   <div align="center">
