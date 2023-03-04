@@ -2,12 +2,31 @@
   <center>
 <h1 align="center"> 💖 ~ WELCOME ~ 💖 </h1>
 <br>
+<p align="center">
+  <a href="https://github.com/Yuri-Neko"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Tachiba+Hashiba+Kyouka+  ;I+Am+15+Years+Old;I+live+In+Indonesian+  ;Don't+bully+me+≧▽≦" alt="Neko">
+<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
+<p align="center">
+  <p align="center">
+    <a href="https://yuri-neko.github.io/">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+YuriNeko+🤗"
+            alt="YuriNeko"
+        />
+    </a>
+</p>
+<a href="https://github.com/Yuri-Neko"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
+</p>
+  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Kyouka&description=Hai,%20Aku%20Kyouka%20dan%20Aku%20Hanya%20seorang%20programmer%20:).%20Aku%20Suka%20Nonton%20Anime&image=https://static.wikia.nocookie.net/the-muse-list/images/8/8e/SHIDO.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ruka.nime7&github=Yuri-Neko&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Aku Sangat suka Menonton Anime:) &&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://wallpapercave.com/wp/wp9396919.jpg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+</p>
+<!--
 <div align="center">
   <img src="https://i.pinimg.com/originals/92/7d/46/927d468a539415804e1230bd1d5f25b2.gif">
-  <!-- <a href="https://ryzn.site/" >
+   <a href="https://ryzn.site/" >
    <img src="https://lanyard.cnrad.dev/api/376260355313106944?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a> -->
+  </a>
 <br>
+-->
 
   <!--<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>-->
   <p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Visitors+Count" width="180px"/></p>
