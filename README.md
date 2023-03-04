@@ -3,9 +3,6 @@
 <h1 align="center"> 💖 ~ WELCOME ~ 💖 </h1>
 <br>
 <p align="center">
-  <a href="https://github.com/Yuri-Neko"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=My+Name+Tachiba+Hashiba+Kyouka+  ;I+Am+15+Years+Old;I+live+In+Indonesian+  ;Don't+bully+me+≧▽≦" alt="Neko">
-<h1 align="center">Irasshaimase<img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="40px" alt=""><br></h1> 
-<p align="center">
   <p align="center">
     <a href="https://yuri-neko.github.io/">
         <img
