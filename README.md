@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <p align="center">
-    <a href="https://yuri-neko.github.io/">
+    <a href="https://ShirokamiRyzen.github.io/">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+ShirokamiRyzen"
             alt="ShirokamiRyzen"
@@ -15,25 +15,15 @@
 </p>
   <a href="https://github.com/Yuri-Neko"><img src="https://cardivo.vercel.app/api?name=Ryzen&description=Hi,%20Im%20Shirokami%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ShirokamiRyzen&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
-<!--
-<div align="center">
-  <img src="https://i.pinimg.com/originals/92/7d/46/927d468a539415804e1230bd1d5f25b2.gif">
-   <a href="https://ryzn.site/" >
-   <img src="https://lanyard.cnrad.dev/api/376260355313106944?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-<br>
--->
+
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
 </details>
-  <!--<p><a href="https://www.youtube.com/watch?v=Hy9s13hWsoc">7!! - Orange</a><p>-->
-  <!--<p><img src="https://komarev.com/ghpvc/?username=ShirokamiRyzen&style=flat-square&label=Visitors+Count" width="180px"/></p>-->
-  
 </div>
     
- ### Github Stats 
+### Github Stats 
 
 <a href="https://github.com/ShirokamiRyzen"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 
@@ -88,10 +78,6 @@ Listening to the music and typing code is my favorite routine, and also i like p
 <br>
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
-<!-- <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-</div> -->
-
 <p align="center">Here are some my <br>
 most used social media</p>
 
@@ -102,10 +88,4 @@ most used social media</p>
 </p>
 </div>
 </center>
-<!-- <div>
-<div align="center">
-<img src="https://i.imgur.com/RzFlGwZ.gif">
-</div>
-<hr>
-</div> -->
 </body>
