@@ -58,10 +58,7 @@
 <b>Gender:</b> Attack Helicopter
 </li>
 <li>
-<b>Website</b> https://www.ryzn.my.id
-</li>
-<li>
-<b>Blogspot</b> https://www.win-tweak.my.id
+<b>Website</b> https://www.ryzendesu.com
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
