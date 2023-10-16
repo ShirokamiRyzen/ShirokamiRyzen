@@ -22,6 +22,8 @@
 <a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
 </details>
 </div>
+
+[![An image of @shirokamiryzen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirokamiryzen)](https://holopin.io/@shirokamiryzen)
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
     
