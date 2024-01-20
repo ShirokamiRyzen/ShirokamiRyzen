@@ -60,7 +60,7 @@
 <b>Gender:</b> Attack Helicopter
 </li>
 <li>
-<b>Website</b> https://www.ryzendesu.com
+<b>Website</b> https://www.ryzendesu.vip
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
