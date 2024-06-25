@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <p align="center">
-    <a href="https://ryzn.my.id/">
+    <a href="https://ryzendesu.vip/">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+ShirokamiRyzen"
             alt="ShirokamiRyzen"
@@ -19,7 +19,7 @@
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
+<a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
 </details>
 </div>
 
