@@ -2,7 +2,7 @@
   <center>
 <h1 align="center"> 💖 ~ WELCOME ~ 💖 </h1>
 <br>
-<p align="center">
+<!--<p align="center">
   <p align="center">
     <a href="https://ryzendesu.vip/">
         <img
@@ -10,26 +10,29 @@
             alt="ShirokamiRyzen"
         />
     </a>
-</p>
+</p>-->
 <a href="https://github.com/ShirokamiRyzen"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
   <a href="https://github.com/ShirokamiRyzen"><img src="https://cardivo.vercel.app/api?name=Ryzen&description=Hi,%20Im%20Shirokami%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ShirokamiRyzen&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-<details open>
+<details open align="center">
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
 </details>
 </div>
 
-[![An image of @shirokamiryzen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirokamiryzen)](https://holopin.io/@shirokamiryzen)
+<!--[![An image of @shirokamiryzen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirokamiryzen)](https://holopin.io/@shirokamiryzen)-->
     
 <h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
-    
-<a href="https://github.com/ShirokamiRyzen"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
 
-<a href="https://github.com/ShirokamiRyzen">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+<div align="center">
+<a href="https://github.com/ShirokamiRyzen"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
+<a href="https://github.com/ShirokamiRyzen">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+</div>
 
 ### ⚙ &nbsp;GitHub Analytics
 
