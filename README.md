@@ -1,105 +1,104 @@
-<body>
-  <center>
-<h1 align="center"> 💖 ~ WELCOME ~ 💖 </h1>
-<br>
-<!--<p align="center">
-  <p align="center">
-    <a href="https://ryzendesu.vip/">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+ShirokamiRyzen"
-            alt="ShirokamiRyzen"
-        />
-    </a>
-</p>-->
-<a href="https://github.com/ShirokamiRyzen"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
-</p>
-  <a href="https://github.com/ShirokamiRyzen"><img src="https://cardivo.vercel.app/api?name=Ryzen&description=Hi,%20Im%20Shirokami%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ShirokamiRyzen&pattern=leaf&colorPattern=%23eaeaea" /><a>
-</p>
-
-<details open align="center">
-<summary><b>←Total Profile Visitors ↓</b></summary>
-<br>
-<a href="https://www.instagram.com/fatih_frdaus"><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
-</details>
-</div>
-
-<!--[![An image of @shirokamiryzen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirokamiryzen)](https://holopin.io/@shirokamiryzen)-->
-    
-<h2 align="center"> ⚙️ ~ GITHUB STATS ~ ⚙️ </h2>
-
 <div align="center">
-<a href="https://github.com/ShirokamiRyzen"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShirokamiRyzen&show_icons=true&locale=en&layout=compact" alt="ShirokamiRyzen" /></p>
-<a href="https://github.com/ShirokamiRyzen">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShirokamiRyzen&theme=monokai)
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@ShirokamiRyzen?name=ShirokamiRyzen&theme=original-new">
+    </p>
 </div>
 
-### ⚙ &nbsp;GitHub Analytics
+<h2 align="center">Hey there!</h2>
+Fatih here! I'm a Network Engineer, Cloud Engineer, Cyber Security specialist, and Software Engineer from Indonesia. I work with Javascript, Python, and PHP, specializing in server management, network infrastructure, VPS, and backend development.
 
-<p align="center">
-  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-stats.vercel.app/api?username=ShirokamiRyzen&theme=tokyonight&show_icons=true" /></a>
-</p>
+I don't have anything special, but I hope to be able to change that in the future.
 
-<p align="center">
-  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShirokamiRyzen&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/ShirokamiRyzen"><img src="https://github-profile-trophy.vercel.app/?username=ShirokamiRyzen&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-    
+My hobbies include watching Anime, reading, and listening to music!
+
+<h2 align="center"> ✨ About me ✨ </h2>
+
+```sh
+root@ryzumi: ~/ShirokamiRyzen (main)$ neofetch
+```
+
+<img align="left" src="https://avatars.githubusercontent.com/u/76462435?s=400&u=967128a7cc1194a9533509af422d9da3cd517e66&v=4" width="130px"/>
+
+```yaml
+My Profile
+-------------------------------
+Host: dev.ryzumi.vip
+Username: ShirokamiRyzen
+Whoami: Normal People.
+Languages: Indonesia & English
+Waifu: 友利 奈緒 (Nao Tomori)
+Pronouns: Ja/Wir.
+Location: Jawa Barat, Indonesia.
+Hobbies: Watching Anime, Reading, Listening Music.
+
+```
+
 <div>
-<h2 align="center"> 😼 ~ ABOUT ME ~ 😼 </h2>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
-  </div>
-<li>
- <b>Name:</b> Shirokami Ryzen
-</li>
-<li>
-<b>Loves:</b> Anime, Games, Music, Girl
-</li>
-<li>
-<b>Gender:</b> Attack Helicopter
-</li>
-<li>
-<b>Website</b> https://www.ryzendesu.vip
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-
+<br>
 <br>
 <br>
 <br>
 
+<p align="right"><a href = "https://music.youtube.com/watch?v=O48gok_FLCg"><img src = "https://i.ytimg.com/vi/O48gok_FLCg/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>7!! - Orange </b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=WwyDpKXG83A"><img  src ="https://i.ytimg.com/vi_webp/WwyDpKXG83A/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - Grand Escape (feat. Toko Miura)</b></p>
+
+<br>
+<br>
+
+<p align="right"><a href="https://music.youtube.com/watch?v=2kBD6ZueXNo"><img src="https://i.ytimg.com/vi_webp/2kBD6ZueXNo/maxresdefault.webp" width="170" align="left"></a><b><br>Aoi Tada - 灼け落ちない翼</b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=OqQAFmkrzew"><img  src ="https://i.ytimg.com/vi_webp/OqQAFmkrzew/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - すずめ feat.</b></p>
+
+<br>
 </div>
+<br>
+
 <div>
-<h2 align="center"> 📇 ~ KNOWLEDGE ~ 📇 </h2>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<br>
-<br>
-Listening to the music and typing code is my favorite routine, and also i like playing games with my friends 💕.
-</p>
-<br>
-<h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
-
-<p align="center">Here are some my <br>
-most used social media</p>
-
-<p align="center">
-<a href="https://www.facebook.com/Nao.Tomori.UwU" target="_blank"><img src="https://img.shields.io/badge/-Shirokami%20Ryzen-blue?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Ryzen_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<h2 align="center"> 📖 Knowledge 📖 </h2>
+</div>
+<div align = "center">
+<p align = "center">
+     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,wordpress,nodejs,bun,git,vscode,go,php,laravel,docker,nginx,aws,gcp,azure,cloudflare,replit,netlify,vercel,nix,linux,windows,mysql,mongo,supabase,firebase,sqlite&perline=6" alt="My Skills"/> 
+    </a>
 </p>
 </div>
-</center>
-</body>
+<br>
+
+<div>
+<h2 align="center"> 📊 Statistics 📊 </h2>
+</div>
+<div align="center">
+    <img width="625em" src="./github-metrics.svg" />
+</div>
+<br>
+<br>
+
+<!-- <br><br><br><br> -->
+
+## **📫 Contact**
+
+<a href="https://github.com/ShirokamiRyzen"><img align="right" width="100" src="" /></a> **Please Contact me on Instagram for a quick
+response:** [ShirokamiRyzen](https://www.instagram.com/fatih_frdaus)
+
+**You can also email me here:** fatih@ryzumi.vip
+
+[![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fatih_frdaus)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/ShirokamiRyzen)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:fatih@ryzumi.vip)
+
+<br> 
+<br>
+
+<h1 align="center">Support Me</h1>
+
+<p align="center">
+    <a href="https://github.com/sponsors/ShirokamiRyzen" target="_blank">
+        <img src="https://telegra.ph/file/14a7745f434cd21e900d6.jpg">
+    </a>
+</p>
