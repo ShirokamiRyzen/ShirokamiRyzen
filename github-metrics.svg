@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            15001 Commits
+                            15004 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -204,7 +204,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    253 Forkers
+                                    254 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="128.41717204573288" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="128.41717204573288" y="0" width="107.1635835601373" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="235.5807556058702" y="0" width="84.12440300415396" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="319.7051586100241" y="0" width="45.1628618941054" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="364.8680205041295" y="0" width="44.93778823133478" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="409.8058087354643" y="0" width="23.762342004093114" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="433.5681507395574" y="0" width="16.304018217434823" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="449.8721689569922" y="0" width="10.12783104300774" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="128.55089580907162" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="128.55089580907162" y="0" width="107.12036564751216" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="235.6712614565838" y="0" width="84.09047654352347" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="319.7617380001073" y="0" width="45.144648201035444" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="364.9063862011427" y="0" width="44.919665308035384" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="409.8260515091781" y="0" width="23.752758908918572" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="433.57881041809674" y="0" width="16.297442983466794" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.87625340156353" y="0" width="10.123746598436574" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1422,7 +1422,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        314
+                                        315
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1529,7 +1529,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        707
+                                        708
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1688,7 +1688,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2025, 13:02:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2025, 14:02:40 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
