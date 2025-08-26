@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@ShirokamiRyzen?name=ShirokamiRyzen&theme=original-new">
+        <img align="center" alt="count" src="https://count.getloli.com/@ShirokamiRyzen?name=ShirokamiRyzen&theme=booru-lewd">
     </p>
 </div>
 
@@ -73,6 +73,9 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <div>
 <h2 align="center"> 📊 Statistics 📊 </h2>
 </div>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShirokamiRyzen&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
+<br>
 <div align="center">
     <img width="625em" src="./github-metrics.svg" />
 </div>
