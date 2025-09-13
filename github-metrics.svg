@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            16172 Commits
+                            16174 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.38823651716288" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="135.38823651716288" y="0" width="104.74460817690264" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="240.13284469406554" y="0" width="82.40677772446345" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="322.539622418529" y="0" width="44.22163143303592" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="366.7612538515649" y="0" width="43.973931828986714" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="410.73518568055164" y="0" width="23.267115634846515" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="434.00230131539814" y="0" width="15.964229330272104" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="449.9665306456702" y="0" width="10.033469354329752" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.3805479172872" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="135.3805479172872" y="0" width="104.74708910788546" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="240.12763702517265" y="0" width="82.40872957221589" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="322.5363665973885" y="0" width="44.22267884557048" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="366.759045442959" y="0" width="43.974973374626245" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="410.7340188175852" y="0" width="23.26766672868384" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="434.0016855462691" y="0" width="15.964607451416969" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.966292997686" y="0" width="10.033707002313923" height="8" fill="#a91e50"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angga7togk/Animapi</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Animapi adalah library scrapper anime streaming dengan sangat cepat dan mudah digunakan.</div>
@@ -1660,7 +1660,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 09:21:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 10:05:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
