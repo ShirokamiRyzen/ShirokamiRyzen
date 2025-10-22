@@ -1437,7 +1437,7 @@
                                         <span>starred Aug 11 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">Free Open-Source Image and Text Generation</div>
+                                <div class="field description">Your Friendly Open-Source Gen-AI Platform</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2025, 15:02:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2025, 16:02:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
