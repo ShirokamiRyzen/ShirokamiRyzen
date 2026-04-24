@@ -22,7 +22,7 @@ root@ryzumi: ~/ShirokamiRyzen (main)$ neofetch
 ```yaml
 My Profile
 -------------------------------
-Host: dev.ryzumi.vip
+Host: fatih@ryzumi.net
 Username: ShirokamiRyzen
 Whoami: Normal People.
 Languages: Indonesia & English
@@ -93,7 +93,7 @@ response:** [ShirokamiRyzen](https://www.instagram.com/fatih_frdaus)
 
 [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fatih_frdaus)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/ShirokamiRyzen)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:fatih@ryzumi.vip)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:fatih@ryzumi.net)
 
 <br> 
 <br>
