@@ -70,7 +70,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 </div>
 <br>
 
-<div>
+<!--<div>
 <h2 align="center"> 📊 Statistics 📊 </h2>
 </div>
 <br>
