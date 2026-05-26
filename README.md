@@ -89,7 +89,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <a href="https://github.com/ShirokamiRyzen"><img align="right" width="100" src="https://c.tenor.com/GObeT8ZUrCQAAAAd/tenor.gif" /></a> **Please Contact me on Instagram for a quick
 response:** [ShirokamiRyzen](https://www.instagram.com/fatih_frdaus)
 
-**You can also email me here:** fatih@ryzumi.vip
+**You can also email me here:** fatih@ryzumi.net
 
 [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fatih_frdaus)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/ShirokamiRyzen)
